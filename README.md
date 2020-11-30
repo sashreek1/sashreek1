@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashreek1&label=Profile%20views&color=0e75b6&style=flat" alt="sashreek1" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.sashreek.site/](https://www.sashreek.site/)
-
 - 💬 Ask me about **Python, Raspberry Pi and Arduino**
 
 - 📫 How to reach me **sashreek713@gmail.com**
