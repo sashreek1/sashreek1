@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sashreek</h1>
-<h3 align="center">A high school student who has experimented with IoT, cloud technology, and robotics with a passion for astronomy, autonomy, and everything in between.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashreek1&label=Profile%20views&color=0e75b6&style=flat" alt="sashreek1" /> </p>
 
