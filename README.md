@@ -32,5 +32,4 @@
 <a href="https://www.qt.io/" target="_blank"> <img src="https://github.com/sashreek1/sashreek1/blob/main/logos/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a> 
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://github.com/sashreek1/sashreek1/blob/main/logos/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashreek1&show_icons=true&locale=en" alt="sashreek1" /></p>
 
